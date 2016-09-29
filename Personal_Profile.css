@@ -1,0 +1,27 @@
+img{
+  width: 80px;
+}
+
+#container{
+  width: 1000px;
+
+}
+
+  #header{
+    width: 1000px;
+    text-align: center;
+    background-color: #eef1f7;
+  }
+
+  #sidebar{
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+  }
+
+  #main_content{
+    display: inline-block;
+    vertical-align: top;
+    width: 600px;
+    margin-left: 50px;
+  }
